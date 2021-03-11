@@ -1,7 +1,7 @@
 # em-2_mount
 EM-2赤道儀在電路板故障後，自行製造替代用的實驗型電路板  
-聯絡請來信<address>s106021109@m106.nthu.edu.tw</address>  
-合作編輯此文件請按此按鈕[![hackmd-github-sync-badge](https://hackmd.io/sIzvRXmRRlCRxG6UBYnCwA/badge)](https://hackmd.io/sIzvRXmRRlCRxG6UBYnCwA)  
+[Hackmd.io![hackmd-github-sync-badge](https://hackmd.io/sIzvRXmRRlCRxG6UBYnCwA/badge)](https://hackmd.io/sIzvRXmRRlCRxG6UBYnCwA)  
+[Github![github](https://icons-for-free.com/iconfiles/png/128/part+1+github-1320568339880199515.png)](https://github.com/nelson40514/em-2_mount)
 
 ## 系統發展背景
 舊有之EM-2赤道儀無法正常運轉，在對內部進行簡易檢修後發現舊有之電路已無法正常運作<small>(在適當架設後，以社窩之示波器檢測電路板輸出至步進馬達的訊號，發現未能有適當之脈衝波進行輸出)</small>。  
@@ -57,3 +57,5 @@ EM-2赤道儀在電路板故障後，自行製造替代用的實驗型電路板
 ### Datasheet
 [TC5048Pdatasheet](http://pdf.datasheetcatalog.com/datasheet_pdf/toshiba/TC5036P_and_TC5048P.pdf)  
 [Attiny45](https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2586-AVR-8-bit-Microcontroller-ATtiny25-ATtiny45-ATtiny85_Datasheet.pdf)
+
+#### 聯絡資訊<address>s106021109@m106.nthu.edu.tw</address>  
